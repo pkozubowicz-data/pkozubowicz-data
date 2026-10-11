@@ -10,7 +10,7 @@ SQL (BigQuery) · Power BI · DAX · statystyka opisowa
 
 | Projekt | Pytanie | Wniosek |
 |---|---|---|
-| [Online Retail II](https://github.com/pkozubowicz-data/online-retail-ii-analysis) | Jak sprzedaje sklep internetowy: sezonowość, produkty, klienci, kraje, zwroty? | ok. 85,6% przychodu to jeden rynek (Wielka Brytania) |
+| [Online Retail II](https://github.com/pkozubowicz-data/online-retail-analysis) | Jak sprzedaje sklep internetowy: sezonowość, produkty, klienci, kraje, zwroty? | ok. 85,6% przychodu to jeden rynek (Wielka Brytania) |
 | [thelook e-commerce](https://github.com/pkozubowicz-data/thelook-ecommerce-analysis) | Jak rośnie sprzedaż i kim są klienci (RFM)? | 69,7% zamówień to zamówienia jednopozycyjne |
 | [PCBA Quality](https://github.com/pkozubowicz-data/pcba-quality-analysis) | Gdzie powstają defekty na liniach SMT? | Solder Bridge to 46% wszystkich defektów (dane syntetyczne) |
 
