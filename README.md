@@ -1,16 +1,20 @@
-## Hi there 👋
+# Cześć, jestem Przemysław 👋
 
-<!--
-**pkozubowicz-data/pkozubowicz-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Planista produkcji, który przechodzi na analizę danych. Na co dzień planuję zlecenia produkcyjne i wiem, jakie problemy powinny rozwiązywać SQL i dashboardy.
+Szukam roli Data Analyst w e-commerce.
 
-Here are some ideas to get you started:
+## Stack
+SQL (BigQuery) · Power BI · DAX · statystyka opisowa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekty
+
+| Projekt | Pytanie | Wniosek |
+|---|---|---|
+| [Online Retail II](https://github.com/pkozubowicz-data/online-retail-ii-analysis) | Jak sprzedaje sklep internetowy: sezonowość, produkty, klienci, kraje, zwroty? | ok. 85,6% przychodu to jeden rynek (Wielka Brytania) |
+| [thelook e-commerce](https://github.com/pkozubowicz-data/thelook-ecommerce-analysis) | Jak rośnie sprzedaż i kim są klienci (RFM)? | 69,7% zamówień to zamówienia jednopozycyjne |
+| [PCBA Quality](https://github.com/pkozubowicz-data/pcba-quality-analysis) | Gdzie powstają defekty na liniach SMT? | Solder Bridge to 46% wszystkich defektów (dane syntetyczne) |
+
+## Teraz
+Buduję projekt z modelem gwiazdy w Power BI (tabela faktów, wymiary, kalendarz, miary DAX).
+
+<!-- 📫 [LinkedIn]([link]) -->
