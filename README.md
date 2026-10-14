@@ -17,4 +17,5 @@ SQL (BigQuery) · Power BI · DAX · statystyka opisowa
 ## Teraz
 Buduję projekt z modelem gwiazdy w Power BI (tabela faktów, wymiary, kalendarz, miary DAX).
 
-<!-- 📫 [LinkedIn]([link]) -->
+
+📫 [LinkedIn](https://www.linkedin.com/in/przemys%C5%82aw-kozubowicz-015078166/)
